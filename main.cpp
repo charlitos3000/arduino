@@ -3,7 +3,6 @@
 //En principio este codigo es un ejemplo de la librearia "pulsesensor"
 //Muestra la frecuencia cardiaca por minuto ademas de numero de pulsaciones por 10 seg.
 //Al usarse en una esp32 se deben de modificar los valores de entrada analógica (de 12 a 8 bits)!
-
 //al final este codigo cambio para ser un reloj con varias aplicaciones 
 
 //se incluye esta librearia para poder utilizarla con este editor de texto 
